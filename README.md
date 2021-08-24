@@ -9,8 +9,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Fabricio-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Fabricio-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Fabricio-HTML" height="60" width="60" src="https://img.icons8.com/ios-filled/50/000000/html-5--v2.png">
+  <img align="center" alt="Fabricio-CSS" height="60" width="60" src="https://img.icons8.com/ios-filled/50/000000/css3.png">
   <img align="center" alt="Fabricio-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Fabricio-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="Fabricio-Java" height="30" width="100" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -19,7 +19,7 @@
 ##
   
 <div>
-  <a href="https://www.instagram.com/notrealscooby/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabricio-caldana-593b091a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+  <a href="https://www.instagram.com/notrealscooby/?hl=pt-br" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram--v2.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabricio-caldana-593b091a3/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" target="_blank"></a>     
  
 </div>
