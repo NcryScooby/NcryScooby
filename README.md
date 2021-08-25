@@ -5,8 +5,8 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/notrealscooby/?hl=pt-br" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram--v2.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabricio-caldana-593b091a3/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" target="_blank"></a>     
+  <a href="https://www.instagram.com/notrealscooby/?hl=pt-br" target="_blank"><img height="50" img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabricio-caldana-593b091a3/" target="_blank"><img height="50" img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"></a>     
 </div>
 
 ##
