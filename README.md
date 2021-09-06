@@ -1,6 +1,7 @@
 ### Olá, Meu nome é Fabrício 👋
 
-- Estudando Análise e desenvolvimento de sistemas.
+- Análise e desenvolvimento de sistemas.
+- Atualmente estudando Angular.
 
 ##
 
