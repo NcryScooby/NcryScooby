@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Fabrício 👋
 
 - Análise e desenvolvimento de sistemas.
-- Atualmente estudando HTML, CSS, JS/TS e Angular.
+- Atualmente estudando HTML, CSS, JS/TS e React.
 
 ##
 
