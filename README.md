@@ -1,5 +1,6 @@
-### Olá, Meu nome é Fabrício 👋
+### Oi, Meu nome é Fabrício 👋
 
+- Desenvolvedor Front-End.
 - Análise e desenvolvimento de sistemas.
 - Atualmente estudando HTML, CSS, JS/TS e React.
 
