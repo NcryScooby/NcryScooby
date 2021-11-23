@@ -2,7 +2,7 @@
 
 - Desenvolvedor Front-End.
 - Análise e desenvolvimento de sistemas.
-- Atualmente estudando HTML, CSS, JavaScript/TypeScript e ReactJS.
+- Atualmente estudo HTML, CSS, JavaScript/TypeScript e ReactJS.
 
 ##
 
