@@ -6,6 +6,10 @@
 
 ##
 
+ ![Snake animation](https://github.com/NcryScooby/NcryScooby/blob/output/github-contribution-grid-snake.svg)
+ 
+ ##
+
 <div>
   <a href="https://www.instagram.com/notrealscooby/?hl=pt-br"><img height="50" img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"></a>
   <a href="https://www.linkedin.com/in/fabr%C3%ADcio-caldana-593b091a3/"><img height="50" img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" >
