@@ -14,10 +14,6 @@
 
 ##
 
-![Snake animation](https://github.com/NcryScooby/NcryScooby/blob/output/github-contribution-grid-snake.svg)
-
-##
-
  <div>
   <a href="https://github.com/NcryScooby">
   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=NcryScooby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
