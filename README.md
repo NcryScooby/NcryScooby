@@ -14,7 +14,7 @@
 
 ##
 
-![Snake animation](https://github.com/TLeeona/TLeeona/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NcryScooby/NcryScooby/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
