@@ -1,8 +1,8 @@
-### Oi, Meu nome é Fabrício 👋
+### Hi, My name is Fabrício 👋
 
-- Desenvolvedor Front-End.
-- Análise e desenvolvimento de sistemas.
-- Atualmente estudo HTML, CSS, JavaScript/TypeScript e ReactJS.
+- Front-End Developer.
+- Systems analysis and development - Unirriter University.
+- I currently study HTML, CSS, JavaScript, ReactJS, NodeJS, mySQL and noSQL.
 
 ##
 
