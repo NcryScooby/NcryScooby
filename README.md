@@ -1,8 +1,8 @@
 <h2 align="center"> Hello 🤘🏻</h2>
  
-- Front-End Developer.
+- Full Stack Developer.
 - Systems analysis and development - Unirriter University.
-- I currently study HTML, CSS, JavaScript, ReactJS, NodeJS, mySQL and noSQL.
+- I currently study HTML, CSS, JavaScript, ReactJS, NodeJS, mySQL and mongoDB.
  <br>
 <div align="center">
  <a href="https://github.com/ncryscooby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncryscooby&layout=compact&theme=dark&hide_border=true" /></a> 
