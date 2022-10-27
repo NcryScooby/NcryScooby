@@ -1,25 +1,31 @@
-### Hi, My name is Fabrício 👋
-
+<h2 align="center"> Hello 🤘🏻</h2>
+ 
 - Front-End Developer.
 - Systems analysis and development - Unirriter University.
 - I currently study HTML, CSS, JavaScript, ReactJS, NodeJS, mySQL and noSQL.
-
-##
-
- ![Snake animation](https://github.com/NcryScooby/NcryScooby/blob/output/github-contribution-grid-snake.svg)
+ <br>
+<div align="center">
+ <a href="https://github.com/ncryscooby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncryscooby&layout=compact&theme=dark&hide_border=true" /></a> 
+ </div>
+ <br>
+ <div align="center">
  
- ##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncryscooby&theme=dark)](https://git.io/streak-stats)
 
+ </div>
+ 
 <div>
-  <a href="https://www.instagram.com/notrealscooby/?hl=pt-br"><img height="50" img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"></a>
-  <a href="https://www.linkedin.com/in/fabr%C3%ADcio-caldana-593b091a3/"><img height="50" img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" >
-  </a>     
+<h2 align="center"> Skills
+ </h2>
+ 
+<div align="center"><br>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
-##
-
- <div>
-  <a href="https://github.com/NcryScooby">
-  <img height="160em"src="https://github-readme-stats.vercel.app/api?username=NcryScooby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NcryScooby&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ 
+![Snake animation](https://github.com/NcryScooby/NcryScooby/blob/output/github-contribution-grid-snake.svg)
