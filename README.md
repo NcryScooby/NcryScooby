@@ -9,14 +9,12 @@
  </div>
  <br>
  <div align="center">
- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncryscooby&theme=dark)](https://git.io/streak-stats)
-
  </div>
  
 <div>
-<h2 align="center"> Skills
- </h2>
+ 
+<h2 align="center"> Skills</h2>
  
 <div align="center"><br>
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,6 +29,7 @@
 <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</div>
+
+ </div>
  
 ![Snake animation](https://github.com/NcryScooby/NcryScooby/blob/output/github-contribution-grid-snake.svg)
