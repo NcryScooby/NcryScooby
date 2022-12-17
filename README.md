@@ -2,7 +2,7 @@
  
 - Full Stack Developer.
 - Systems analysis and development - Uniritter University.
-- I currently study HTML, CSS, JavaScript/TypeScript, ReactJS, NodeJS, mySQL and mongoDB.
+- I currently study HTML, CSS, JavaScript/TypeScript, React, Node, MySQL and MongoDB.
  <br>
 <div align="center">
  <a href="https://github.com/ncryscooby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncryscooby&layout=compact&theme=dark&hide_border=true" /></a> 
