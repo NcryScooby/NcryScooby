@@ -1,7 +1,7 @@
 <h2 align="center"> Hello 🤘🏻</h2>
  
 - Full Stack Developer.
-- Systems analysis and development - Uniritter University.
+- Graduated in systems analysis and development.
 - I currently study HTML, CSS, JavaScript/TypeScript, React, Node, MySQL and MongoDB.
  <br>
 <div align="center">
