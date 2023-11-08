@@ -1,4 +1,4 @@
-<h2 align="center"> Hello 🤘🏻</h2>
+<h2 align="center"> Hello 🤘🏻</h2> 
  
 - Full Stack Developer.
 - Graduated in systems analysis and development.
